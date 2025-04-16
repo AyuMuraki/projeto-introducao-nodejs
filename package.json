@@ -1,0 +1,12 @@
+{
+  "name": "projeto-introducao-nodejs",
+  "version": "1.0.0",
+  "main": "./src/filtrarPeticoes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ayumi Muraki",
+  "license": "ISC",
+  "description": "Primeiro Projeto Node.js"
+}
