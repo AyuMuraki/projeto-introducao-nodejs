@@ -67,7 +67,25 @@ npm init -y
 node filtrarPeticoes.js
 ```
 
+🧠 Considerações Finais
+Este projeto foi uma ótima oportunidade para colocar em prática conceitos fundamentais do Node.js, como leitura de arquivos com o módulo fs, manipulação de dados no formato JSON e aplicação de métodos poderosos do JavaScript, como .filter() e .forEach().
+
+Apesar de ser um exemplo simples, ele simula um cenário real e útil: a filtragem de petições trabalhistas com base em critérios específicos. Esse tipo de tarefa é comum em aplicações do mundo jurídico, especialmente quando se trabalha com grandes volumes de dados.
+
+Além disso, foi possível entender melhor como lidar com possíveis erros de leitura ou parsing de arquivos, usando try...catch, o que é essencial no desenvolvimento backend.
+
+💡 O que aprendi com esse projeto:
+
+A importância de organizar bem os dados antes de processá-los.
+
+Como pensar em filtros e condições de forma lógica.
+
+Que mesmo pequenos scripts podem trazer muita produtividade.
+
+Esse é só o começo — com essa estrutura sólida, dá pra expandir o projeto para incluir interface web, exportar os resultados para novos arquivos, integrar com bancos de dados e muito mais!
 
 
+📬 Fale Comigo
+Se você tiver dúvidas, sugestões ou quiser trocar uma ideia sobre Node.js e projetos backend, fique à vontade pra me chamar!
 
 Feito com 💙 por Ayumi Muraki
